@@ -1,4 +1,4 @@
-![img-light](./banner.inkscape.png)
+![img-light](./banner_crop.inkscape.png)
 
 ## Hi there 👋
 
