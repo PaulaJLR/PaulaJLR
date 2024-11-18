@@ -1,3 +1,5 @@
+![img-light](./banner.inkscape.png)
+
 ## Hi there 👋
 
 I am Paula, a PhD student at the University of Waterloo, Chemistry. I work with biochemistry, software development for drug discovery and molecular modelling and dynamics.
