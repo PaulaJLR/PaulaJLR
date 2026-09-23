@@ -2,10 +2,11 @@
 
 ## Hi there 👋
 
-I am Paula, a PhD student at the University of Waterloo, Chemistry. I work with computational structural biology, including software development for drug discovery and molecular modelling and dynamics.
+I am Paula, a recent PhD graduate at the University of Waterloo, Chemistry. I work with computational structural biology, including software development for drug discovery and molecular modelling and dynamics.
 I am also passionate about developing visual designs for clear and compelling communication of complex science.
 
-- I am currently working on PROTAC drug discovery
+- My recent works include a pipeline for PROTAC modelling, and as well as an automated and truly gentle MD equilibration workflow using OpenMM.
+- I am currently working on a nextflow-based aptamer-binder interaction modelling pipeline.
 - Check out [my portfolio](https://kaput-flood-25b.notion.site/Paula-Jofily-420afc31678f408aa5958459494a1c07)!
 
 <!--
