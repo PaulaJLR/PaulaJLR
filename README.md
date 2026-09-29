@@ -2,24 +2,11 @@
 
 ## Hi there 👋
 
-I am Paula, a recent PhD graduate at the University of Waterloo, Chemistry. I work with computational structural biology, including software development for drug discovery and molecular modelling and dynamics.
-I am also passionate about developing visual designs for clear and compelling communication of complex science.
+I am Paula, a software developer and computational structural biologist based in Toronto.
 
-- My recent works include a pipeline for PROTAC modelling, and as well as an automated and truly gentle MD equilibration workflow using OpenMM.
-- I am currently working on a nextflow-based aptamer-binder interaction modelling pipeline.
-- Check out [my portfolio](https://kaput-flood-25b.notion.site/Paula-Jofily-420afc31678f408aa5958459494a1c07)!
+### Recent Open-Source Projects
+- [P4ward](https://github.com/skteamlab/p4ward) — An automated pipeline for PROTAC ternary complex modelling.
+- [MDProtocols](https://github.com/paulajlr/mdprotocols) — An object-oriented Python framework for truly gentle MD equilibration using OpenMM.
 
-<!--
-**PaulaJLR/PaulaJLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*I am also passionate about developing visual designs for clear and compelling communication of complex science. Check out [my visual portfolio](https://kaput-flood-25b.notion.site/?v=662cf8737a8540da8d639633bd5424c9)!*
